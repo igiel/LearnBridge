@@ -43,10 +43,9 @@ namespace LearnBridge
             //          "~/Content/bootstrap.css",
             //          "~/Content/Site.css"));
 
-            //bundles.Add(new ScriptBundle("~/bundles/angular").Include
-            //    ("~/Scripts/vendor/angular.min.js"
-            //    , "~/Scripts/vendor/smart-table.min.js"
-            //    ));
+            bundles.Add(new ScriptBundle("~/bundles/angular").Include
+                ("~/Scripts/angular.min.js",
+                "~/js/main.js"));
         }
     }
 }
