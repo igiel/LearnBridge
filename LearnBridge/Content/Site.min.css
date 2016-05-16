@@ -1,0 +1,1 @@
+﻿body{padding-top:100px;padding-bottom:20px;font-size:12px;}.body-content{padding-left:15px;padding-right:15px;}input,select,textarea{max-width:280px;}#allFundsTable td{white-space:nowrap;max-width:200px;overflow:hidden;text-overflow:ellipsis;}#allFundsTable td:hover{white-space:normal;max-width:200px;overflow:auto;text-overflow:unset;}.HeaderGrouping th{text-align:center;}
